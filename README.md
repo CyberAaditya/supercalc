@@ -1,4 +1,6 @@
 supercalc
 =========
 
-calculator in javascript
+Scientific Calculator build in javascript
+
+Demo : http://cyberaditya.in/supercalc.html
